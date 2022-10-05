@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(114, 173, 218);
+}
+
+#t1 td:first-child {
+    background-color: black;
+    color: white;
+    position: sticky;
+
+
+
+}
+#t1 tr:first-child {
+  
+    background-color: black;
+    color: white;
+    position: sticky;
+
+
+    
+
+}
+
+
+table {
+
+    background-color: grey;
+    border: 5px solid black;
+}
+
+td {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;;
+    border: 2px solid black;
+}
+
+
+
+#t1 {
+
+    max-height: 450px;
+    max-width: 100%;
+    float: left;
+
+
+    overflow: auto;
+    text-align: right;
+    background-color: grey;
+    border: 10px solid black;
+
+}
+
+
+
+header {
+    margin-bottom: 150px;
+}
+
+#wrapper {
+    width: 90%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+.output5 p{
+    margin-left: 1500px;
+}
+
+p {
+    padding: 10px;
+}
+
